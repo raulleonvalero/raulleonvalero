@@ -16,10 +16,12 @@
 * 🧠 **[TFG] Sistema de Terapia Inmersiva AR/VR (Calificación: 9.5/10)**
   * Simulador de exposición a fobias en **Unreal Engine (Blueprints)** con integración biométrica en tiempo real.
   * App nativa en **Android Studio** conectada mediante **sockets UDP** para el procesamiento de biofeedback.
+    https://rua.ua.es/entities/publication/381d1241-d1fa-4491-8acd-142dbf384e90
 
 * ⚙️ **BombaMia**
   * Desarrollo en **C++** de un **motor gráfico propio desde cero con OpenGL**, reemplazando la fachada inicial de Raylib.
   * Implementación del *game loop*, mecánicas clave y compilación nativa para **Windows y Linux**.
+    https://almondstudio.itch.io/bommba-mia
 
 * 🎯 **Simulador de Tiro al Blanco en VR**
   * Proyecto de Realidad Virtual en **Unreal Engine**.
@@ -27,6 +29,7 @@
 
 * 👾 **Assembly Armada (GBRetroDev'24)**
   * *Space shooter* arcade para Game Jam programado **íntegramente en Código Ensamblador** para hardware retro.
+    https://github.com/raulleonvalero/RV-RaulLeonValero-SimuladorTiroAlBlanco
 
 * 🌐 **Plataforma Web Accesible de Gestión**
   * Aplicación web desarrollada con **HTML, CSS, JavaScript y BD** enfocado en usabilidad y accesibilidad universal (modo daltónicos, navegación por teclado).
