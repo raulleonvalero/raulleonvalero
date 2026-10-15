@@ -26,10 +26,11 @@
 * 🎯 **Simulador de Tiro al Blanco en VR**
   * Proyecto de Realidad Virtual en **Unreal Engine**.
   * Mecánicas físicas de agarre (*grab system*), lanzamiento y locomoción/teletransporte desarrolladas **desde cero** (sin plantillas del motor).
+    https://github.com/raulleonvalero/RV-RaulLeonValero-SimuladorTiroAlBlanco
 
 * 👾 **Assembly Armada (GBRetroDev'24)**
   * *Space shooter* arcade para Game Jam programado **íntegramente en Código Ensamblador** para hardware retro.
-    https://github.com/raulleonvalero/RV-RaulLeonValero-SimuladorTiroAlBlanco
+    https://icy-beak-studios.itch.io/assembly-armada
 
 * 🌐 **Plataforma Web Accesible de Gestión**
   * Aplicación web desarrollada con **HTML, CSS, JavaScript y BD** enfocado en usabilidad y accesibilidad universal (modo daltónicos, navegación por teclado).
